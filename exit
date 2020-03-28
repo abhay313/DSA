@@ -1,0 +1,178 @@
+[33mcommit c1dc4cfa4d5dc394dbe1ad28d535b1aac83238ed[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 15ada8b 71eb76a
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Wed Apr 1 17:56:31 2020 +0530
+
+    Array added
+
+[33mcommit 15ada8b65b85ca128bf9f5b0162d88fdfbbf2e96[m
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Wed Apr 1 17:53:33 2020 +0530
+
+    Array added
+
+[33mcommit 71eb76af8ffefc4444e94cb95e1a7aa91fc4215b[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sun Mar 29 12:12:23 2020 +0530
+
+    linear search
+
+[33mcommit 257006bdcbcd41caee4f813b7d77ec23106a104c[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sun Mar 29 12:11:08 2020 +0530
+
+    Binary Search
+
+[33mcommit ed8fb97f94e59a163923d18148d6205eae003776[m
+Merge: 1f75e2e 27280d9
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Sun Mar 29 12:05:30 2020 +0530
+
+    Adding searching algorithm
+
+[33mcommit 1f75e2e7ef0a3dd495191c61e49449947ee594e5[m
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Sun Mar 29 12:01:30 2020 +0530
+
+    Adding search algorithm
+
+[33mcommit 27280d9a4500330b1028e722407e5e927d305584[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:31:39 2020 +0530
+
+    updated file name
+
+[33mcommit 1d58dfe4f84387717f725549f74a761f46839525[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:30:12 2020 +0530
+
+    Doubly linked list
+
+[33mcommit 957afee8ce118d39682ef33ee031e534fe2c9ca3[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:29:04 2020 +0530
+
+    Singly linked list
+
+[33mcommit eee2b154affdd402dcc406556f119b826a42d3fe[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:27:43 2020 +0530
+
+    Circular linked list
+
+[33mcommit cca0da5baf26e0dc5c09133e88088a69f37e404c[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:26:23 2020 +0530
+
+    Bubble sort
+
+[33mcommit 5a22061b80f200ddc7ed55d9991aa31230166a2e[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:25:43 2020 +0530
+
+    circular doubly linked list
+
+[33mcommit 863554cee5189300e3fa91f7edfc075bee2d0989[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:23:11 2020 +0530
+
+    Renaming of selection sort
+
+[33mcommit 53b57e59c4630b497ba917f580bb1bad64173fba[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:22:27 2020 +0530
+
+    Renaming of selection sort
+
+[33mcommit 867d9143fd7508df32f2a222a4b409d34d9f0409[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:21:30 2020 +0530
+
+    Renaming of Merge sort
+
+[33mcommit 5c4f3836a66fd21eac6157f3b30165fb2f252ff6[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:20:26 2020 +0530
+
+    Renaming of insertion sort
+
+[33mcommit 2bfc4c591a53847cd8c0c9926c2875bb686baedd[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:17:29 2020 +0530
+
+    updated quicksort
+
+[33mcommit efd8464d02b76ebb0e153f4545ed3e7794755fcd[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 21:09:20 2020 +0530
+
+    updated merge sort
+
+[33mcommit 804cf8ea247753cbabaf19ee1b576cded09e0816[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sat Mar 28 19:17:56 2020 +0530
+
+    updated
+
+[33mcommit 62002b9f6f969031861e2549254472c1a7cf719b[m
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Sat Mar 28 19:16:43 2020 +0530
+
+    Selection Sort and Merge Sort Added
+
+[33mcommit d22cf0973aac9d44f29ed98e63b66231c48b05b5[m
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Sat Mar 28 19:15:30 2020 +0530
+
+    Selection Sort Added
+
+[33mcommit 87a9301a9c1f26b17f3666f6e1529657da57b2b2[m
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Sat Mar 28 19:12:24 2020 +0530
+
+    Insertion Sort Added
+
+[33mcommit 386a18d2fabc4cfab311ea066abb910725cba602[m
+Merge: 4df2b62 15b4977
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Fri Mar 27 22:59:13 2020 +0530
+
+    Bubble sort added
+
+[33mcommit 4df2b62b5b51576528000d3f248228e6cd6f3828[m
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Fri Mar 27 22:49:11 2020 +0530
+
+    Bubble sort added
+
+[33mcommit 15b4977f0e953074e43638d0565dc2d2b6648796[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Fri Mar 27 22:34:31 2020 +0530
+
+    Queue added
+
+[33mcommit 62aaca79f5ce704ad0b9798d60c39a5e208d1446[m
+Author: abhay313 <abhayiiitk@gmail.com>
+Date:   Fri Mar 27 22:32:14 2020 +0530
+
+    Adding queue and doubly ended queue
+
+[33mcommit e6fcb444428f6593d2573aa93b8aa8a73d30b063[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sun Mar 15 16:33:57 2020 +0530
+
+    Linked list created.
+
+[33mcommit 5dab15f50e60dc991989b82fd76312c4af5f47a7[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sun Mar 15 16:33:00 2020 +0530
+
+    Readme created
+
+[33mcommit eca46d54e404903aaa584407964f507ee2f09653[m
+Author: Abhay Singh Yadav <43968252+abhay313@users.noreply.github.com>
+Date:   Sun Mar 15 16:26:26 2020 +0530
+
+    Linked list added
+    
+    Single,Double,Circular all are added.

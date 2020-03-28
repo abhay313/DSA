@@ -1,3 +1,5 @@
+/* Merge Sort using C++ */
+
 #include<iostream>
 using namespace std;
 
@@ -62,18 +64,20 @@ void mergeSort(int *array, int l, int r) {
       merge(array, l, m, r);
    }
 }
+
+/* Driver Code */
 int main() {
    int n;
    cout << "Enter the number of elements: ";
    cin >> n;
-   int arr[n];     //create an array with given number of elements
-   cout << "Enter elements:" << endl;
+   int arr[n];     //creating an array with given number of elements
+   cout << "Enter your elements:" << endl;
    for(int i = 0; i<n; i++) {
       cin >> arr[i];
    }
    cout << "Array before Sorting: ";
    display(arr, n);
    mergeSort(arr, 0, n-1);     //(n-1) for last index
-   cout << "Array after Sorting: ";
+   cout << "After Sorting: ";
    display(arr, n);
 }

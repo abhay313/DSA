@@ -1,7 +1,11 @@
 # DSA
-Important data structure
+Important **Data Structures**
 
-This Contains:
-  1.Linked List
-  2.Queue
-  3.Sorting
+This Contains:<br/>
+  - Linked List<br/>
+  - Queue<br/>
+  - Sorting<br/>
+  - Searching<br/>
+  - Array<br/>
+
+
