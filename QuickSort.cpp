@@ -2,12 +2,14 @@
 
 #include <iostream>
 using namespace std;
+
+// MAX as user wants
 #define MAX 1000
  // functions
 void quick_sort(int[],int,int);
 int partition(int[],int,int);
  
-// Driver Code
+// Driver Code 
 int main()
 {
     int a[MAX],n,i;
@@ -28,6 +30,7 @@ int main()
     return 0;        
 }
  
+// Main function of quicksort
 void quick_sort(int a[],int l,int u)
 {
     int j;
@@ -39,6 +42,7 @@ void quick_sort(int a[],int l,int u)
     }
 }
  
+// Partition of array
 int partition(int a[],int l,int u)
 {
     int v,i,j,temp;
