@@ -11,12 +11,14 @@ int main()
 	cin>>n;
 	int arr[n];
 	cout<<"Enter Array Elements : ";
+	
 	for(i=0; i<n; i++)
 	{
 		cin>>arr[i];
 	}
 	cout<<"Enter the number to be search : ";
 	cin>>num;
+	
 	for(i=0; i<n; i++)
 	{
 		if(arr[i]==num)
