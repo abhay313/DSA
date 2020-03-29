@@ -1,3 +1,6 @@
+/* Binary Search using C++ */
+// Condition : Input sorted array
+
 #include <iostream>
 using namespace std;
 
@@ -26,7 +29,7 @@ int main()
 	   }
 	   else if(arr[middle] == num)
 	   {
-		cout<<num<<" found in the array at the location "<<middle+1<<"\n"; 
+		cout<<num<<" found at location "<<middle+1<<endl; 
                 break; 
            } 
            else { 
