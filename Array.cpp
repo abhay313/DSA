@@ -14,7 +14,7 @@ int Display(int size,int arr[]);
 int size,value;
 int arr[10000];
 
-
+/* formation of array */
 int formArray(int size,int arr[])
 {
 
@@ -25,7 +25,7 @@ return 0;
 
 }
 
-
+/* Inserting new value at index 0 */
 int InsertAtFirst(int size,int arr[],int value)
 {
 size++;
@@ -39,6 +39,7 @@ return size;
 
 }
 
+/* Inserting new value at index size-1 */
 int InsertAtLast(int size,int arr[],int value)
 {
 size++;
@@ -47,6 +48,7 @@ return size;
 
 }
 
+/* Searching value in array */
 int Search(int size,int arr[],int value)
 {
 
@@ -64,6 +66,7 @@ cout<<"Not Found "<<endl;
 return 0;
 }
 
+/* Delete  first element */
 int DeleteAtFirst(int size,int arr[])
 {
 
@@ -76,6 +79,7 @@ size--;
 return size;
 }
 
+/* Delete  last element */
 int DeleteAtLast(int size,int arr[])
 {
 
@@ -83,6 +87,7 @@ size--;
 return size;
 }
 
+/* Sort element by Increasing Order */
 int SortByInc(int size,int arr[])
 {
 
@@ -90,6 +95,7 @@ sort(arr,arr+size);
 return 0;
 }
 
+/* Sort element by Decreasing Order */
 int SortByDec(int size,int arr[])
 {
 
@@ -97,6 +103,7 @@ sort(arr, arr+size, greater<int>());
 return 0;
 }
 
+/* Printing elements */
 int Display(int size,int arr[])
 {
 
@@ -146,7 +153,7 @@ break;
 case 2:
 //int value;
 //size++;
-cout<<"Enter value :";
+cout<<"Enter element you want to Insert :";
 cin>>value;
 
 size=InsertAtFirst(size,arr,value);
@@ -155,7 +162,7 @@ break;
 case 3:
 //int value;
 //size++;
-cout<<"Enter value :";
+cout<<"Enter element you want to Insert :";
 cin>>value;
 
 size=InsertAtLast(size,arr,value);
@@ -197,8 +204,6 @@ cout<<"Enter valid choice "<<endl;
 break;
 
 }
-
-
 
 }while(1);
 
