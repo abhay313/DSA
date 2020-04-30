@@ -1,5 +1,7 @@
-/* C++ Program - Linear Search */
-		
+/* C++ Program - Linear Search 
+ Time complexity: Best O(1)
+ Time complexity: Worst O(n) */	
+
 #include<iostream>
 using namespace std;
 
@@ -34,7 +36,7 @@ int main()
 	}
 	else
 	{
-		cout<<num<<" found at position "<<pos;
+		cout<<num<<" found at position "<<pos<<endl;
 	}
 	return 0;	
 }
