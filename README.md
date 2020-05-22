@@ -20,6 +20,6 @@ This Contains:<br/>
   - Linked List<br/>
   - Queue<br/>
   - Sorting<br/>
-` - Searching<br/>
+  - Searching<br/>
   - Array<br/>
 >>>>>>> 4f02929... updated
